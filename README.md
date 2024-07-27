@@ -41,10 +41,8 @@ This repository hosts a collection of Python data science and analysis projects 
 
 Feel free to reach out if you have any questions, suggestions, or opportunities for collaboration:
 
-- **Email**: [your.email@example.com](mailto:abeerchaudhryofficial@gmail.com)
+- **Email**: [abeerchaudhryofficial@gmail.com](mailto:abeerchaudhryofficial@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abeer-ch/)
 - **GitHub**: [GitHub Profile](https://github.com/abeernch)
-
----
 
 I look forward to connecting with fellow data enthusiasts and professionals through this repository!
